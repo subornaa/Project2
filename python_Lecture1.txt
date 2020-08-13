@@ -1,0 +1,31 @@
+#Variables Names
+p=5
+0
+
+#Data Type
+type(p)
+
+# change the variable
+p='Hamilton'
+p
+
+#Data Type
+type(p)
+
+# slicing string variable
+p[0:2]
+p[0]
+p[1:2]
+
+s='GEM 530'
+s[5]
+
+# what would be the output?
+s[-2]
+s[3]
+
+#Data Structure: None
+j=6
+j
+j=None # clearing or deleting data
+
